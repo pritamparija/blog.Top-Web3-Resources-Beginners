@@ -1,7 +1,24 @@
 # Web 3, Blockchain, Cryptocurrency, Exchanges, and NFTs
 
+## [Web3 Resources](#web3-resources)
 
-Go to section
+[Web3 Resources](#web3-resources)
+    - [Web3 Introductions](#introduction)
+      - [Philosophy](#philosophy)
+      - [Components](#components)
+    - [Technology](#technology)
+      - [Blockchain](#blockchain-resources)
+        - [Protocols](#blockchain-protocols)
+        - [Blockchains](#blockchains)
+        - 
+
+
+
+
+
+
+
+- [Web3 Resources](#web3-resources)
 * [Web3](#web3)  
 * [Blockchain](#blockchain-resources)
 * [Cryptocurrency](#cryptocurrency-resources)
@@ -17,6 +34,8 @@ Go to section
 * [Framework/SDK for dApp development](#frameworksdk-for-dapp-development)
 * [Books](#books)
 * [References](#references)
+
+## Web3 Resources
 
 Welcome to this comprehensive resource list on the exciting world of Web 3, Blockchain, Cryptocurrency, Exchanges, and NFTs. Here you will find top 10 links for each of these topics, covering all the essential information and resources you need to keep up with this rapidly evolving industry.
 
@@ -57,4 +76,4 @@ Welcome to this comprehensive resource list on the exciting world of Web 3, Bloc
 ## References 
 - [ahmet/awesome-web3](https://github.com/ahmet/awesome-web3)
 - [surajondev/awesome-web3.0](https://github.com/surajondev/awesome-web3.0)
-- []()
+- [](
