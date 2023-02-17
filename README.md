@@ -1,7 +1,8 @@
 # Web 3, Blockchain, Cryptocurrency, Exchanges, and NFTs
 
 ## [Web3 Resources](#web3-resources)
-
+ [<img src="images/web3-pritam.png">]
+ 
 [Web3 Resources](#web3-resources)
     - [Web3 Introductions](#introduction)
       - [Philosophy](#philosophy)
